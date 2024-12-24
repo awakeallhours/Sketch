@@ -1,0 +1,33 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #102e8a;
+    height: 980px;
+    
+}
+
+.canvas {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    height: 800px;
+    background-color: rgb(243, 240, 240);
+}
+
+.resize {
+    display : flex;
+
+    margin : 8px;
+    border-radius: 3px;
+}
+
+.row {
+    display: flex;
+    
+}
+
+.column {
+    
+    
+}
